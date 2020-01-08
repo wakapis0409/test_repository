@@ -1,0 +1,1 @@
+worker: python reservation_bot.py
