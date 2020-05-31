@@ -36,5 +36,5 @@ async def on_message(message):
     await client.process_commands(message)
 
 
-TOKEN = 'NzE2NDY1NzYzMjA0MDcxNDM4.XtMLfQ.bSwt1bKIVBaGseJeKJ7RVLx3tEU'
+TOKEN = 'NzE2NDczODA4MjM5NzIyNTc3.XtMSQg.SsXZevtvlXv7vr3l8tYoII2vfFg'
 client.run(TOKEN)
